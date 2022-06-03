@@ -1,7 +1,7 @@
 {
   "name": "image-gallery",
   "author": "Seraj Vahdati <svahdati71@gmail.com>",
-  "repository": "https://github.com/seraj/image-gallery",
+  "repository": "https://github.com/seraj/cat-image-gallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -8,7 +8,7 @@
 
 ## PREVIEW
 
-![Alt Text](https://github.com/seraj/image-gallery/blob/master/public/preview.gif?raw=true)
+![Alt Text](https://github.com/seraj/cat-image-gallery/blob/master/public/preview.gif?raw=true)
 
 ### Installation
 
@@ -16,9 +16,9 @@ Clone repo:
 
 ```sh
 
-git clone https://github.com/seraj/image-gallery.git
+git clone https://github.com/seraj/cat-image-gallery
 
-cd image-gallery
+cd cat-image-gallery
 
 ```
 
